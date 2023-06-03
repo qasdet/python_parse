@@ -1,0 +1,151 @@
+{
+    "total": 18350,
+    "values": [
+        {
+            "id": 6707,
+            "starts_at": "2040-12-12T00:00:00+0300",
+            "name": "Регистрируйся!",
+            "url": "https:\/\/c-club.timepad.ru\/event\/6707\/",
+            "categories": [
+                {
+                    "id": 462,
+                    "name": "Другие события"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 79780,
+            "starts_at": "2025-10-08T19:00:00+0300",
+            "name": "Консалтинговый курс «Бизнес-прорыв»",
+            "url": "https:\/\/upsales.timepad.ru\/event\/79780\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/08b78a4c-f494-4bdd-9832-90409e807720\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_79780.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/08b78a4c-f494-4bdd-9832-90409e807720\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 176637,
+            "starts_at": "2025-06-05T00:00:00+0300",
+            "name": "Книжная ярмарка itSMF России 2023",
+            "url": "https:\/\/orgitsmf.timepad.ru\/event\/176637\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/89f928fe-f7bc-43a3-83c4-b17957e0eb21\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_176637.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/89f928fe-f7bc-43a3-83c4-b17957e0eb21\/"
+            },
+            "categories": [
+                {
+                    "id": 452,
+                    "name": "ИТ и интернет"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 228373,
+            "starts_at": "2028-06-08T00:00:00+0300",
+            "name": "Plain_obstacles",
+            "url": "https:\/\/rybakov.timepad.ru\/event\/228373\/",
+            "categories": [
+                {
+                    "id": 374,
+                    "name": "Кино"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 234806,
+            "starts_at": "2050-01-01T09:00:00+0300",
+            "name": "Сертификат на вечерний курс",
+            "url": "https:\/\/uprav.timepad.ru\/event\/234806\/",
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 234808,
+            "starts_at": "2050-01-01T09:00:00+0300",
+            "name": "Сертификат на дневной курс",
+            "url": "https:\/\/uprav.timepad.ru\/event\/234808\/",
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 234809,
+            "starts_at": "2050-01-01T09:00:00+0300",
+            "name": "Сертификат на сумму",
+            "url": "https:\/\/uprav.timepad.ru\/event\/234809\/",
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 234812,
+            "starts_at": "2050-04-29T09:00:00+0300",
+            "name": "Государственный заказ",
+            "url": "https:\/\/uprav.timepad.ru\/event\/234812\/",
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 351875,
+            "starts_at": "2033-07-13T00:00:00+0300",
+            "name": "Рекомендую статью по ITSM!",
+            "url": "https:\/\/orgitsmf.timepad.ru\/event\/351875\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/ab48880a-5a0a-4fc1-b9cf-0ba002eac087\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_351875.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/ab48880a-5a0a-4fc1-b9cf-0ba002eac087\/"
+            },
+            "categories": [
+                {
+                    "id": 452,
+                    "name": "ИТ и интернет"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 386081,
+            "starts_at": "2027-04-01T00:00:00+0300",
+            "name": "Инновационные генетические технологии для врачей - держите меня в курсе ваших мероприятий!",
+            "url": "https:\/\/innovaitsonnye-genetich.timepad.ru\/event\/386081\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/a2ce930d-589a-4995-8033-c8135f8908b8\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_386081.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/a2ce930d-589a-4995-8033-c8135f8908b8\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        }
+    ]
+}
